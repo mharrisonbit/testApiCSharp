@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a74718c-3138-4c28-9ff8-1ad8bb4c04ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.testApiCSharp/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.testApiCSharp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.testApiCSharp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.testApiCSharp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.testApiCSharp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.testApiCSharp/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/TipsController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/ValuesController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApplication1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/WebApplication1.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/WebApplication1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/WebApplication1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/WebApplication1.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/WebApplication1.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.RazorAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.RazorAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/WebApplication1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/WebApplication1.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/WebApplication1.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/WebApplication1.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testApiCSharp.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/TipsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/TipsController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,12 +30,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="36" />
+          <entry key="cs" value="38" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="36" />
+          <entry key="C#" value="38" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -99,17 +66,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Controllers/TipsController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="195">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
               <folding>
-                <marker date="1536377019664" expanded="true" signature="6:65" ph="..." />
-                <marker date="1536377019664" expanded="true" signature="104:913" ph="{...}" />
-                <marker date="1536377019664" expanded="true" signature="208:911" ph="{...}" />
-                <marker date="1536377019664" expanded="true" signature="316:386" ph="{...}" />
-                <marker date="1536377019664" expanded="true" signature="489:537" ph="{...}" />
-                <marker date="1536377019664" expanded="true" signature="634:654" ph="{...}" />
-                <marker date="1536377019664" expanded="true" signature="766:786" ph="{...}" />
-                <marker date="1536377019664" expanded="true" signature="882:902" ph="{...}" />
+                <marker date="1536379315010" expanded="true" signature="6:65" ph="..." />
+                <marker date="1536379315010" expanded="true" signature="104:913" ph="{...}" />
+                <marker date="1536379315010" expanded="true" signature="208:911" ph="{...}" />
+                <marker date="1536379315010" expanded="true" signature="316:386" ph="{...}" />
+                <marker date="1536379315010" expanded="true" signature="489:537" ph="{...}" />
+                <marker date="1536379315010" expanded="true" signature="634:654" ph="{...}" />
+                <marker date="1536379315010" expanded="true" signature="766:786" ph="{...}" />
+                <marker date="1536379315010" expanded="true" signature="882:902" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -234,12 +201,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536375379151</updated>
-      <workItem from="1536375399522" duration="2733000" />
+      <workItem from="1536375399522" duration="3476000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1536378618866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536378618867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2733000" />
+    <option name="totallyTimeSpent" value="3476000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,6 +263,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -334,17 +313,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Controllers/TipsController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="195">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
           <folding>
-            <marker date="1536377019664" expanded="true" signature="6:65" ph="..." />
-            <marker date="1536377019664" expanded="true" signature="104:913" ph="{...}" />
-            <marker date="1536377019664" expanded="true" signature="208:911" ph="{...}" />
-            <marker date="1536377019664" expanded="true" signature="316:386" ph="{...}" />
-            <marker date="1536377019664" expanded="true" signature="489:537" ph="{...}" />
-            <marker date="1536377019664" expanded="true" signature="634:654" ph="{...}" />
-            <marker date="1536377019664" expanded="true" signature="766:786" ph="{...}" />
-            <marker date="1536377019664" expanded="true" signature="882:902" ph="{...}" />
+            <marker date="1536379315010" expanded="true" signature="6:65" ph="..." />
+            <marker date="1536379315010" expanded="true" signature="104:913" ph="{...}" />
+            <marker date="1536379315010" expanded="true" signature="208:911" ph="{...}" />
+            <marker date="1536379315010" expanded="true" signature="316:386" ph="{...}" />
+            <marker date="1536379315010" expanded="true" signature="489:537" ph="{...}" />
+            <marker date="1536379315010" expanded="true" signature="634:654" ph="{...}" />
+            <marker date="1536379315010" expanded="true" signature="766:786" ph="{...}" />
+            <marker date="1536379315010" expanded="true" signature="882:902" ph="{...}" />
           </folding>
         </state>
       </provider>
