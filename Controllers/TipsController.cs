@@ -1,17 +1,21 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json.Linq;
+using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
 {
-    [Route("tips/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class TipsController : ControllerBase
     {   
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<JObject> Get()
         {
-            return new string[] {"tip2", "tip4"};
+            var test = new TipCollection();
+            var bob = test.ReturningInfo();
+            return bob;
         }
 
         // GET api/values/5
