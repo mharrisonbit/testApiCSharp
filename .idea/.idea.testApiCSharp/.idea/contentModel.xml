@@ -9,6 +9,9 @@
         <e p="TipsController.cs" t="Include" />
         <e p="ValuesController.cs" t="Include" />
       </e>
+      <e p="Models" t="Include">
+        <e p="TipCollection.cs" t="Include" />
+      </e>
       <e p="Program.cs" t="Include" />
       <e p="Properties" t="Include">
         <e p="launchSettings.json" t="Include" />
